@@ -1,0 +1,62 @@
+.calculate-meter-container {
+	font-family: "candara";
+	width: 300px;
+	margin: auto;
+	margin-top: 50px;
+	text-align: left;
+	border: 1px solid #cccccc;
+	background-color: rgb(255, 225, 240);
+	padding: 10px;
+	border-radius: 3px;
+}
+
+.calculate-meter-container .main-meter-label {
+	display: inline-block;
+	vertical-align: top;
+	padding: 5px 5px 5px 0;
+}
+
+.calculate-meter-container .reading-label {
+	display: inline-block;
+	vertical-align: top;
+	width: 65px;
+}
+
+select {
+	outline: none;
+	width: 100px;
+}
+
+.submeters {
+	border: 1px solid #bbbbbb;
+	border-radius: 2px;
+	text-align: left;
+	width: 150px;
+	padding: 5px;
+	background-color: white;
+}
+
+.final-reading {
+	border: 1px solid #cccccc;
+	padding: 4px;
+	border-radius: 3px;
+	background-color: white;
+}
+
+button.add-btn {
+	border: 0px;
+	color: rgb(133, 164, 255);
+	background-color: white;
+	cursor: pointer;
+}
+
+button.add-meter {
+	border-radius: 50%;
+	border: 0px;
+	background-color: rgb(0, 192, 192);
+	box-shadow: 2px 2px 2px grey;
+}
+
+button.add-meter:active {
+	box-shadow: 1px 1px 1px grey;
+}
