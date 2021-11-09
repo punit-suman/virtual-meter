@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/github.io/submeters/static/css/main.66d3c60c.chunk.css",
-    "main.js": "/github.io/submeters/static/js/main.53cd4abd.chunk.js",
-    "main.js.map": "/github.io/submeters/static/js/main.53cd4abd.chunk.js.map",
-    "runtime-main.js": "/github.io/submeters/static/js/runtime-main.05b51467.js",
-    "runtime-main.js.map": "/github.io/submeters/static/js/runtime-main.05b51467.js.map",
-    "static/js/2.e649b152.chunk.js": "/github.io/submeters/static/js/2.e649b152.chunk.js",
-    "static/js/2.e649b152.chunk.js.map": "/github.io/submeters/static/js/2.e649b152.chunk.js.map",
-    "index.html": "/github.io/submeters/index.html",
-    "static/css/main.66d3c60c.chunk.css.map": "/github.io/submeters/static/css/main.66d3c60c.chunk.css.map",
-    "static/js/2.e649b152.chunk.js.LICENSE.txt": "/github.io/submeters/static/js/2.e649b152.chunk.js.LICENSE.txt"
+    "main.css": "/submeters/static/css/main.66d3c60c.chunk.css",
+    "main.js": "/submeters/static/js/main.53cd4abd.chunk.js",
+    "main.js.map": "/submeters/static/js/main.53cd4abd.chunk.js.map",
+    "runtime-main.js": "/submeters/static/js/runtime-main.9ef7430b.js",
+    "runtime-main.js.map": "/submeters/static/js/runtime-main.9ef7430b.js.map",
+    "static/js/2.e649b152.chunk.js": "/submeters/static/js/2.e649b152.chunk.js",
+    "static/js/2.e649b152.chunk.js.map": "/submeters/static/js/2.e649b152.chunk.js.map",
+    "index.html": "/submeters/index.html",
+    "static/css/main.66d3c60c.chunk.css.map": "/submeters/static/css/main.66d3c60c.chunk.css.map",
+    "static/js/2.e649b152.chunk.js.LICENSE.txt": "/submeters/static/js/2.e649b152.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.05b51467.js",
+    "static/js/runtime-main.9ef7430b.js",
     "static/js/2.e649b152.chunk.js",
     "static/css/main.66d3c60c.chunk.css",
     "static/js/main.53cd4abd.chunk.js"
